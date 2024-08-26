@@ -6,8 +6,6 @@ Welcome to my GitHub profile! I’m Shubham, an aspiring web developer who is pa
 
 ## 🛠 Tech Stack
 
-Here’s a visual representation of the technologies I’m familiar with:
-
 <div style="display: flex; justify-content: space-around;">
   <img src="https://wallpaperaccess.com/full/9147315.png" alt="HTML" width="120" height="120"/>
   <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--pCsWxkTW--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/yqqzlq4ua6rf3rv06bvc.png" alt="CSS" width="120" height="120"/>
